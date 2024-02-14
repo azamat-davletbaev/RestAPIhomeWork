@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.idea/.idea.DotnetDev.Homework.7/.idea
+/WebApi/bin/Debug/net5.0
+/WebApi/obj
+/WebClient/obj
+/WebClient/bin/Debug/net5.0
